@@ -1,3 +1,7 @@
+#Next.js 를 사용해 제작하는 문화정보제공 사이트
+
+## Kopis및 여러 사이트에서 제공하는 문화정보 API를 사용해 공연 전시 정보를 제공하는 사이트
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
