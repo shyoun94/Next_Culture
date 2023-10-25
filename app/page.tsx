@@ -22,7 +22,7 @@ function Home({}: Props) {
             </S.MainLink>
           </li>
           <li>
-            <S.MainLink href="">
+            <S.MainLink href="/exhibition">
               <S.ImageWrapper>
                 <S.MainLinkImage src={ExhibitionImg} alt="전시 이미지" />
               </S.ImageWrapper>

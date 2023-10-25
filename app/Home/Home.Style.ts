@@ -21,23 +21,28 @@ export const MainUl = styled.ul`
   }
   & li:nth-child(1) {
     grid-column: span 3;
-    height: 29.0625rem;
+    max-height: 29.0625rem;
+    height: 20.9781rem;
   }
   & li:nth-child(2) {
     grid-column: span 3;
-    height: 29.0625rem;
+    max-height: 29.0625rem;
+    height: 20.9781rem;
   }
   & li:nth-child(3) {
     grid-column: span 2;
-    height: 18.75rem;
+    max-height: 18.75rem;
+    height: 13.75rem;
   }
   & li:nth-child(4) {
     grid-column: span 2;
-    height: 18.75rem;
+    max-height: 18.75rem;
+    height: 13.75rem;
   }
   & li:nth-child(5) {
     grid-column: span 2;
-    height: 18.75rem;
+    max-height: 18.75rem;
+    height: 13.75rem;
   }
 `;
 export const MainLink = styled(Link)`
